@@ -29,9 +29,9 @@ Or press "Load Unpacked" and find the folder in your file explorer
 ## Features
 - [x] Fullscreen
 - [x] AdBlock
-- [ ] CrossHair
-- [ ] Esp 
-- [ ] Aimbot
-- [ ] Trace lines
-- [ ] Zoom Out
-- [ ] Exploits
+- [x] CrossHair
+- [x] Esp 
+- [x] Aimbot
+- [x] Trace lines
+- [x] Zoom Out
+- [x] Exploits
